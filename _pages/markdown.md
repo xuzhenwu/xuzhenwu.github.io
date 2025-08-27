@@ -9,6 +9,13 @@ redirect_from:
 
 {% include toc %}
 
+2024 Apr.		EGU24, Vienna, Austri. (oral report)
+2023 Jul.		25th International Congress on Modelling and Simulation (MODSIM), Australia. (oral report)
+2021 Dec. 	24th International Congress on Modelling and Simulation (MODSIM), Australia. (oral report)
+2018 Nov. 	1st Symposium of Space Earth Science, China. (oral report) 
+
+
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml

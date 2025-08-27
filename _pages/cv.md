@@ -11,54 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in University of Chinese Academy of Sciences, 2000-2024 (supervisor: Yongqiang Zhang)
+* M.S. in Sun Yat-Sen University, 2017-2019 (supervisor: Guoping Tang)
+* B.S. in Sun Yat-Sen University, 2013-2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* PostDoc in Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, 2024
+* Joint educated at Vienna University of Technology (supervisor: Günter Blöschl)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ecohydrological model: Coupled Hydro-Ecological Simulation Systems (CHESS)
+* Evapotranspiration model: Penman-Monteith-Leuning Version 2 Model (PML-V2, a diagnostic ET and GPP model)
+* Lumped hydrological models: GR4J, HBV, etc.
+* Programing: Advanced at C++, R and JavaScript (in Google Earth Engine), basic at Fortran, Linux
+* Language: English, Chinese (Mandarin, Cantonese, Hokkien, Hakka)
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+First Author / Corresponding Author Paper
+1.	Xu, Z., Zhang, Y., Blöschl, G., & Piao, S. (2023). Mega forest fires intensify flood magnitudes in southeast Australia. Geophysical Research Letters, 50, e2023GL103812. https://doi.org/10.1029/2023GL103812
+2.	Xu, Z., Zhang, Y., Zhang, X., Ma, N., Tian, J., Kong, D., & Post, D. (2022). Bushfire-induced water balance changes detected by a modified paired catchment method. Water Resources Research, 58(11), e2021WR031013. https://doi.org/10.1029/2021wr031013
+3.	Xu, Z., Sun, L., Tang, G., Chen, X., Niu, X., Li, Y., & Yu, Y. (2022). Do model results vary under different routing algorithms based on a distributed ecohydrological model? Journal of Hydrometeorology, 23(12), 1913–1928. https://doi.org/10.1175/jhm-d-21-0251.1
+4.	Xu, Z., Tang, G., Jiang, T., Chen, X., Chen, T., & Niu, X. (2021). An automatic partition-based parallel algorithm for grid-based distributed hydrological models. Environmental Modelling & Software, 144, 105142. https://doi.org/10.1016/j.envsoft.2021.105142
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+blank
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Modern hydrology, CAS, 2025
+* Modern hydrology, CAS, 2024
   
-Service and leadership
+Peer review
 ======
-* Currently signed in to 43 different slack teams
+Reviewers for following journals (ORCID records):
+* Science Advances (1 time)
+* Water Resources Research (2)
+* Journal of Hydrology (5)
+* Environmental modelling & software (2)
