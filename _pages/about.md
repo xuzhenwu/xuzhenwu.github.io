@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a postdoctoral researcher at the Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences. In 2024, I obtained my Ph.D. degree from the University of Chinese Academy of Sciences (supervisor: [Yongqiang Zhang](https://scholar.google.com/citations?user=t5iGFeAAAAAJ&hl=en&oi=ao)). I currently work in Prof. Zhang's Global Water Resources Team and collaborate with international researchers on diverse aspects of hydrology, gaining broad global perspectives.
+I am a postdoctoral researcher at the Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences. In 2024, I obtained my Ph.D. degree from the University of Chinese Academy of Sciences (supervisor: [Yongqiang Zhang](https://scholar.google.com/citations?user=t5iGFeAAAAAJ&hl=en&oi=ao) [张永强](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/bjdbgc/201903/t20190327_5262230.html)). I currently work in Prof. Zhang's Global Water Resources Team and collaborate with international researchers on diverse aspects of hydrology, gaining broad global perspectives.
 
 My research focuses on hydrology and water cycle resilience, with particular interest in understanding how extreme events such as droughts and wildfires affect ecosystems and water fluxes. I integrate satellite observations, field measurements, and distributed ecohydrological modeling to investigate the mechanisms of water balance changes, hydrological responses, and vegetation–hydrology feedbacks. 
 

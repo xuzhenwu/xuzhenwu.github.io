@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in University of Chinese Academy of Sciences, 2000-2024 (supervisor: Yongqiang Zhang)
-* M.S. in Sun Yat-Sen University, 2017-2019 (supervisor: Guoping Tang)
+* Ph.D in University of Chinese Academy of Sciences, 2000-2024 (supervisor: [Yongqiang Zhang](https://scholar.google.com/citations?user=t5iGFeAAAAAJ&hl=en&oi=ao) [张永强](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/bjdbgc/201903/t20190327_5262230.html))
+* M.S. in Sun Yat-Sen University, 2017-2019 (supervisor: [Guoping Tang](https://www.researchgate.net/profile/Guoping-Tang) [唐国平](https://gp.sysu.edu.cn/teacher/230))
 * B.S. in Sun Yat-Sen University, 2013-2017
 
 Work experience
 ======
-* PostDoc in Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, 2024
-* Joint educated at Vienna University of Technology (supervisor: Günter Blöschl)
+* PostDoc in Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, 2024-Now
+* Joint educated at Vienna University of Technology, 2023-2024 (supervisor: [Günter Blöschl](https://www.waterresources.at/index.php?id=99))
   
 Skills
 ======
@@ -37,9 +37,6 @@ First Author / Corresponding Author Paper
 3.	Xu, Z., Sun, L., Tang, G., Chen, X., Niu, X., Li, Y., & Yu, Y. (2022). Do model results vary under different routing algorithms based on a distributed ecohydrological model? Journal of Hydrometeorology, 23(12), 1913–1928. https://doi.org/10.1175/jhm-d-21-0251.1
 4.	Xu, Z., Tang, G., Jiang, T., Chen, X., Chen, T., & Niu, X. (2021). An automatic partition-based parallel algorithm for grid-based distributed hydrological models. Environmental Modelling & Software, 144, 105142. https://doi.org/10.1016/j.envsoft.2021.105142
 
-Talks
-======
-blank
   
 Teaching
 ======
@@ -48,7 +45,7 @@ Teaching
   
 Peer review
 ======
-Reviewers for following journals (ORCID records):
+Reviewers for following journals ([ORCID](https://orcid.org/0000-0003-2607-8343)):
 * Science Advances (1 time)
 * Water Resources Research (2)
 * Journal of Hydrology (5)
