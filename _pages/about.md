@@ -17,9 +17,11 @@ I also focus on data and methodological development, including the development, 
 
 # Lastest News
 
-A new session proposal **"Ecohydrological responses to droughts in a changing environment: Mechanism, trends and impacts"** has been submitted to EGU 2026.  
+We warmly welcome contributions to our session on **drought responses** at Vienna, EGU 2026! 
+This session, convened by Zhenwu Xu (ECS), Shuping Li (ECS), Wantong Li (ECS), Yongqiang Zhang, and Diego G. Miralles, aims to bring together researchers studying ecohydrological responses to droughts in a changing environment.
 
-Convened by Zhenwu Xu (ECS), Shuping Li (ECS), Wantong Li (ECS), Yongqiang Zhang, and Diego G. Miralles, the session will explore how climate and land surface changes shape ecohydrological responses to droughts, with a focus on mechanisms, trends, resilience, and impacts.  
+**Session short summary**
+Ecohydrological processes are increasingly influenced by frequent, prolonged, and severe droughts under climate and land surface changes. This session welcomes studies using observations, models, and concepts to explore mechanisms, trends, resilience, and impacts of drought responses, aiming to inform adaptation strategies in a changing environment.
 
 ![EGU2026 Session](images/about/EGU26.png)
 
