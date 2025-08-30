@@ -19,7 +19,7 @@ I also work on data and methodological development, including the development, u
 
 # Lastest News
 
-We warmly welcome contributions to our session on **drought responses** at Vienna, EGU 2026! 
+We warmly welcome contributions to our proposing session on **drought responses** at Vienna, EGU 2026!
 This session, convened by Zhenwu Xu (ECS), Shuping Li (ECS), Wantong Li (ECS), Yongqiang Zhang, and Diego G. Miralles, aims to bring together researchers studying ecohydrological responses to droughts in a changing environment.
 
 **Session short summary**
