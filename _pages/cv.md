@@ -37,13 +37,6 @@ First Author / Corresponding Author Paper
 3.	Xu, Z., Sun, L., Tang, G., Chen, X., Niu, X., Li, Y., & Yu, Y. (2022). Do model results vary under different routing algorithms based on a distributed ecohydrological model? Journal of Hydrometeorology, 23(12), 1913–1928. https://doi.org/10.1175/jhm-d-21-0251.1
 4.	Xu, Z., Tang, G., Jiang, T., Chen, X., Chen, T., & Niu, X. (2021). An automatic partition-based parallel algorithm for grid-based distributed hydrological models. Environmental Modelling & Software, 144, 105142. https://doi.org/10.1016/j.envsoft.2021.105142
 
-Projects
-======
-1. National Postdoctoral Research Program, Category C, GZC20250236, “Mechanisms of Vegetation Recovery on Groundwater Processes in the Mu Us Sandy Land”, Jul. 2025 – Jun. 2027, 240,000 RMB, Ongoing, PI.
-国家资助博士后研究人员计划 C 档, GZC20250236, “毛乌素沙地植被恢复对地下水过程的影响机制研究”, 2025.7–2027.6, 24 万, 在研, 主持。
-2. China Postdoctoral Science Foundation, 77th Batch, General Program, 2025M770359, “Responses and Recovery Mechanisms of Evapotranspiration to Forest Fire Disturbances in Southeastern China”, Jul. 2025 – Dec. 2026, 80,000 RMB, Ongoing, PI.
-中国博士后科学基金第 77 批面上资助, 2025M770359, “中国东南部森林火灾扰动下的蒸散发响应及恢复机制研究”, 2025.7–2026.12, 8 万, 在研, 主持。
-
 Teaching
 ======
 * Modern hydrology, CAS, 2025
