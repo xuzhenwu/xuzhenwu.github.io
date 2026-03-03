@@ -19,7 +19,7 @@ I also work on data and methodological development, including the development, u
 
 # Lastest News
 
-#### March 2024
+**March 2024**
 * 📄 Our preprint on the PML-V2 dataset is now available. You can read the data description paper currently under review at [Earth System Science Data](https://essd.copernicus.org/preprints/essd-2026-94/).
 
   ![ESSD preprint](images/publications/2026ESSD.png)
