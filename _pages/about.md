@@ -10,7 +10,7 @@ redirect_from:
 <div style="display: flex; gap: 25px; align-items: flex-start; flex-wrap: wrap;">
 
   <!-- 左侧：正文区域（自动占据绝大部分空间） -->
-  <div style="flex: 1; min-width: 650px;">
+  <div style="flex: 1; min-width: 750px;">
 
     I am a postdoctoral researcher at the Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences (IGSNRR, CAS). I received my Ph.D. from UCAS in 2024 under the supervision of Prof. <a href="https://scholar.google.com/citations?user=t5iGFeAAAAAJ&hl=en&oi=ao" target="_blank" style="color: inherit; text-decoration: none;">Yongqiang Zhang</a>. During my doctoral studies, I completed part of my training at TU Wien, working with Prof. <a href="https://www.waterresources.at/index.php?id=99" target="_blank" style="color: inherit; text-decoration: none;">Günter Blöschl</a>. I currently work in the <a href="https://zhang-hydrolab.github.io/" target="_blank" style="text-decoration: none;">Large Scale Hydrology Lab</a>, collaborating internationally to address large-scale hydrological challenges.
 
