@@ -7,16 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences (IGSNRR, CAS). I received my Ph.D. from UCAS in 2024 under the supervision of Prof. <a href="https://scholar.google.com/citations?user=t5iGFeAAAAAJ&hl=en&oi=ao" target="_blank">Yongqiang Zhang</a>. During my doctoral studies, I completed part of my training at TU Wien, working with Prof. <a href="https://www.waterresources.at/index.php?id=99" target="_blank">Günter Blöschl</a>. I currently work in the <a href="https://zhang-hydrolab.github.io/" target="_blank">Large Scale Hydrology Lab</a>, collaborating internationally to address large-scale hydrological challenges.
+I am a postdoctoral researcher at the Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences (IGSNRR, CAS). I received my Ph.D. from UCAS in 2024 under the supervision of Prof. <a href="https://scholar.google.com/citations?user=t5iGFeAAAAAJ&hl=en&oi=ao" target="_blank" style="color: inherit; text-decoration: none;">Yongqiang Zhang</a>. During my doctoral studies, I completed part of my training at TU Wien, working with Prof. <a href="https://www.waterresources.at/index.php?id=99" target="_blank" style="color: inherit; text-decoration: none;">Günter Blöschl</a>. I currently work in the <a href="https://zhang-hydrolab.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Large Scale Hydrology Lab</a>, collaborating internationally to address large-scale hydrological challenges.
 
-My research focuses on **Global Change Ecohydrology**. I am particularly interested in how hydrological systems sustain resilience under disturbances, such as droughts and wildfires, and avoid irreversible regime shifts. To investigate these mechanisms, I integrate satellite observations, field measurements, and distributed ecohydrological modeling to understand water balance changes, hydrological responses, and vegetation–water feedbacks.
+My research focuses on global change ecohydrology. I am particularly interested in how hydrological systems sustain resilience under disturbances, such as droughts and wildfires, and avoid irreversible regime shifts. To investigate these mechanisms, I integrate satellite observations, field measurements, and distributed ecohydrological modeling to understand water balance changes, hydrological responses, and vegetation–water feedbacks.
 
-In addition to driving mechanistic understanding, I actively engage in data and methodological development. This includes the development, updating, and application of <a href="https://essd.copernicus.org/preprints/essd-2026-94/" target="_blank">PML-V2</a>, a diagnostic global evapotranspiration model. Previously, I have also developed parallel computing algorithms for distributed hydrological models and evaluated model uncertainty across different flow routing schemes.
-
-#### Research Interests
-
-* 💧🌱 **Hydrological responses and resilience** to disturbances (e.g., droughts, wildfires, deforestation)
-
-* 🖥️💦 **Process-based modeling** for evapotranspiration, streamflow, and vegetation-water interactions
-
-* 🛰️🌍 **Satellite–field data integration** for global and regional assessment
+In addition to driving mechanistic understanding, I actively engage in data and methodological development. This includes the development, updating, and application of PML-V2, a diagnostic global evapotranspiration model. Previously, I have also developed parallel computing algorithms for distributed hydrological models and evaluated model uncertainty across different flow routing schemes.
