@@ -2,7 +2,7 @@
 layout: single
 title: ""
 permalink: /cv/
-author_profile: false
+author_profile: true
 ---
 
 <style>
