@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Global Change Ecohydrology 🌍
+title: Global Change Eco-Hydrology
 author_profile: true
 redirect_from: 
   - /about/
