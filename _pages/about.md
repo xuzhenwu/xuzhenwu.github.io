@@ -23,7 +23,7 @@ redirect_from:
   <!-- 右侧：限制尺寸的竖屏视频区域 -->
   <div style="width: 200px; flex-shrink: 0;">
     <video autoplay loop muted playsinline style="width: 100%; max-height: 320px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);">
-      <source src="/files/your_video.mp4" type="video/mp4">
+      <source src="/images/river.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
