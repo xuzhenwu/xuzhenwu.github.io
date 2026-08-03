@@ -116,7 +116,7 @@ redirect_from:
         border-left: none;
         text-align: left;
         font-size: 1.02em;
-        line-height: 1.65;
+        line-height: inherit;
         font-style: italic;
         color: inherit;
       ">
@@ -132,7 +132,7 @@ redirect_from:
         margin-top: 18px;
         text-align: right;
         font-size: 0.92em;
-        line-height: 1.5;
+        line-height: inherit;
         color: #666;
       ">
         — Henry David Thoreau, <cite>Walden</cite>, “Conclusion”
