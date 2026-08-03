@@ -58,7 +58,7 @@ redirect_from:
        style="text-decoration: none;">
       PML-V2
     </a>.
-   My work also involves the development, parallelization, and evaluation of conceptual hydrological models and physically based distributed models. Ultimately, I aim to advance process-based frameworks for monitoring water–carbon interactions and strengthening ecohydrological resilience under global change
+   My work also involves the development, parallelization, and evaluation of conceptual hydrological models and physically based distributed models. Ultimately, I aim to advance process-based frameworks for monitoring water–carbon interactions and strengthening ecohydrological resilience under global change.
   </p>
 
 </div>
