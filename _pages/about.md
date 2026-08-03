@@ -63,8 +63,7 @@ redirect_from:
 
 </div>
 
-
-<!-- 下方：左侧视频，右侧居中文字 -->
+<!-- 下方：左侧视频，右侧引文 -->
 <div style="
   display: flex;
   gap: 25px;
@@ -74,7 +73,7 @@ redirect_from:
   flex-wrap: wrap;
 ">
 
-  <!-- 左侧视频：与原视频尺寸一致 -->
+  <!-- 左侧视频 -->
   <div style="
     width: 200px;
     flex: 0 0 200px;
@@ -95,34 +94,52 @@ redirect_from:
     </video>
   </div>
 
-  <!-- 右侧引文 -->
+  <!-- 右侧引文：上下居中，文字左对齐 -->
   <div style="
     flex: 1;
     min-width: 300px;
     display: flex;
     align-items: center;
-    justify-content: center;
-    text-align: center;
-    padding: 25px 40px;
+    padding: 25px 45px;
     box-sizing: border-box;
   ">
-    <blockquote style="
+
+    <figure style="
+      width: 100%;
       max-width: 680px;
       margin: 0;
-      padding: 0;
-      border-left: none;
-      font-size: 1.05em;
-      line-height: 1.85;
-      font-style: italic;
-      color: inherit;
     ">
-      The life in us is like the water in the river. It may rise this year
-      higher than man has ever known it, and flood the parched uplands;
-      even this may be the eventful year, which will drown out all our
-      muskrats. It was not always dry land where we dwell. I see far inland
-      the banks which the stream anciently washed, before science began to
-      record its freshets.
-    </blockquote>
+
+      <blockquote style="
+        margin: 0;
+        padding: 0;
+        border-left: none;
+        text-align: left;
+        font-size: 1.02em;
+        line-height: 1.65;
+        font-style: italic;
+        color: inherit;
+      ">
+        The life in us is like the water in the river. It may rise this year
+        higher than man has ever known it, and flood the parched uplands;
+        even this may be the eventful year, which will drown out all our
+        muskrats. It was not always dry land where we dwell. I see far inland
+        the banks which the stream anciently washed, before science began to
+        record its freshets.
+      </blockquote>
+
+      <figcaption style="
+        margin-top: 18px;
+        text-align: right;
+        font-size: 0.92em;
+        line-height: 1.5;
+        color: #666;
+      ">
+        — Henry David Thoreau, <cite>Walden</cite>, “Conclusion”
+      </figcaption>
+
+    </figure>
+
   </div>
 
 </div>
