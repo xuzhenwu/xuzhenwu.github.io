@@ -19,7 +19,7 @@ redirect_from:
        style="color: inherit; text-decoration: none;">
       Yongqiang Zhang
     </a>.
-    During my doctoral studies, I completed part of my training at TU Wien with guidence from
+    During my doctoral studies, I completed part of my research training at TU Wien under the guidance of
     Prof.
     <a href="https://www.waterresources.at/index.php?id=99"
        target="_blank"
@@ -32,7 +32,7 @@ redirect_from:
        style="text-decoration: none;">
       Large Scale Hydrology Lab
     </a>,
-    while collaborating internationally to address global hydrological challenges.
+    while collaborating internationally to address large-scale hydrological challenges.
   </p>
 
   <div style="
@@ -42,26 +42,23 @@ redirect_from:
     margin: 12px 0;
   ">
     My research focuses on global change ecohydrology. I am particularly
-    interested in how hydrological systems sustain resilience under disturbances,
+    interested in how hydrological systems maintain resilience under disturbances,
     such as droughts, wildfires, and deforestation, and avoid irreversible regime
-    shifts under recurring stress. To address this, I integrate satellite observations,
+    shifts under recurring stress. To investigate these processes, I integrate satellite observations,
     field measurements, and distributed ecohydrological modeling to understand
     water balance changes, hydrological responses, and vegetation–water feedbacks.
   </div>
 
   <p>
     In addition to mechanistic research, I actively engage in data and
-    methodological development, notably the diagnostic global evapotranspiration and gross primary production
+    methodological development, notably the diagnostic evapotranspiration and gross primary production
     model
     <a href="https://developers.google.com/earth-engine/datasets/publisher/pml_evapotranspiration"
        target="_blank"
        style="text-decoration: none;">
       PML-V2
     </a>.
-    My work also encompasses the development, parallelization, and evaluation of
-    conceptual and physically based distributed hydrological models. Ultimately,
-    I aim to advance process-based frameworks for monitoring water–carbon coupling
-    and enhancing ecohydrological resilience worldwide.
+   My work also involves the development, parallelization, and evaluation of conceptual hydrological models and physically based distributed models. Ultimately, I aim to advance process-based frameworks for monitoring water–carbon interactions and strengthening ecohydrological resilience under global change
   </p>
 
 </div>
