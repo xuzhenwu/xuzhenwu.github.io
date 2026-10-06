@@ -37,6 +37,7 @@ redirect_from:
 
   <div style="
     background-color: #e6f3ff;
+    color: #494e52;
     padding: 8px 12px;
     border-radius: 4px;
     margin: 12px 0;
@@ -109,7 +110,7 @@ redirect_from:
       max-width: 680px;
       margin: 0;
     ">
-
+    
       <blockquote style="
         margin: 0;
         padding: 0;
@@ -127,7 +128,7 @@ redirect_from:
         the banks which the stream anciently washed, before science began to
         record its freshets.
       </blockquote>
-
+    
       <figcaption style="
         margin-top: 18px;
         text-align: right;
@@ -137,7 +138,7 @@ redirect_from:
       ">
         — Henry David Thoreau, <cite>Walden</cite>, “Conclusion”
       </figcaption>
-
+    
     </figure>
 
   </div>
